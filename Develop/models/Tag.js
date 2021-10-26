@@ -14,14 +14,7 @@ Tag.init(
     },
     tag_name: {
       type: DataTypes.STRING,
-    },
-    category_id: {
-      type: DataTypes.INTEGER,
-      references: {
-        model: 'category',
-        key: 'id',
-      },
-    },
+    }
   },
   {
     sequelize,
