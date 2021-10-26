@@ -33,7 +33,7 @@ router.get('/:id', async (req, res) => {
 
 router.post('/', async (req, res) => {
   try {
-    // find all categories
+    // create new category
     const allCategories = await Category.create(req.body); //Confirm with Jeremy
     res.status(200).json(allCategories);
   } catch (err) {
@@ -62,7 +62,7 @@ router.delete('/:id', async (req, res) => {
   try {
     const categoryDelete = await Product.destroy({
       where: {
-        id: req.params.id,
+        id: req.params.id
       },
     });
     if (!categoryDelete) {
