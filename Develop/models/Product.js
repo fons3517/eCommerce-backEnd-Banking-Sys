@@ -33,10 +33,10 @@ Product.init(
       defaultValue: 10,
       isNumeric: true
     },
-    category_id: {
+    tag_id: {
       type: DataTypes.INTEGER,
       references: {
-        model: 'category',
+        model: 'tag',
         key: 'id',
       },
     },
