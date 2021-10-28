@@ -28,8 +28,8 @@ Alfonso Robles
 
 [ECOMMERCE-BANKING-SYS media link](https://watch.screencastify.com/v/ynxwQGhC0s52caGOGaAK)
 
-![Category.js image](./Assets/CategoryJS.jpg)
-![index.js image](./Assets/indexJS.jpg)
-![product.js image](./Assets/productJS.jpg)
-![productTag.js image](./Assets/productTagJS.jpg)
-![tag.js image](./Assets/tagJS.jpg)
+![Category.js image](./Assets/insomniaCategories.jpg)
+![index.js image](./Assets/insomniaProducts.jpg)
+![product.js image](./Assets/insomniaTags.jpg)
+![productTag.js image](./Assets/indexJS.jpg)
+![tag.js image](./Assets/ProductJS.jpg)
