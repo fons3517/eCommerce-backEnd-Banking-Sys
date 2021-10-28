@@ -4,7 +4,7 @@ ECOMMERCE-BACKEND-BANKING-SYS
 
 ## Description:
 
-ECOMMERCE-BACKEND-BANKING-SYSTEM is an online ecommerce business that stores information such as inventory, cost, product names and stores them all inside of a dynamically interactive database. It also has built in security functions to safely handle your sensitive information.
+ECOMMERCE-BACKEND-BANKING-SYSTEM is an online ecommerce business application that stores information such as inventory, cost, product names and stores them inside of an interactive database. It also has built in security functions to safely handle sensitive information.
 
 ### Table of Contents
 
